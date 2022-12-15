@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[195],{2841:(e,t,u)=>{u.r(t),u.d(t,{default:()=>n});var i=u(7294),k=u(6550);function n(){return i.createElement(k.l_,{to:"/"})}}}]);

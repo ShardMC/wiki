@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[195],{2841:(i,e,n)=>{function t(){return""}n.r(e),n.d(e,{default:()=>t}),"undefined"!=typeof window&&(window.location.href="https://shardmc.github.io/wiki/intro")}}]);

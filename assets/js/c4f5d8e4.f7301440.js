@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[195],{2841:(i,e,n)=>{function w(){return""}n.r(e),n.d(e,{default:()=>w}),"undefined"!=typeof window&&(window.location.href="/wiki/intro")}}]);
